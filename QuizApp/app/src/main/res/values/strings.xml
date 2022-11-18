@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="true_text">True</string>
+    <string name="false_text">false</string>
+    <string name="question_body">The human body comprises four lungs.</string>
+    //F
+    <string name="question_world">There are seven continents in the world.</string>
+    //T
+    <string name="question_space">You cannot cry in space.</string>
+    //T
+    <string name="question_crocodiles">Crocodiles have sweat glands.</string>
+    //F
+    <string name="question_clock">5 o’clock in the evening is written as 5 am.</string>
+    //F
+    <string name="question_river">The Nile is the longest river in Africa.</string>
+    //T
+    <string name="question_mass">Mass and weight are not the same.</string>
+    //T
+    <string name="question_mango">Mango has just one seed.</string>
+    //T
+    <string name="question_pole">The North Pole is colder than the South Pole.</string>
+    //F
+    <string name="question_cricket">Cricket is the national game of India.</string>
+    //F
+    <string name="correct_ans">That\'s Correct</string>
+    <string name="wrong_ans">That\'s Incorrect</string>
+    <string name="previous_text">previous</string>
+    <string name="next_btn">next_btn</string>
+</resources>
